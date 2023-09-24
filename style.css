@@ -2,7 +2,10 @@
 body {
     font-family: Arial, sans-serif;
 }  
-
+#marquue{
+    text-shadow: 0,0,0,black,0.5;
+    color: tomato ;
+}
 #search-container {
    
     text-align: center;
