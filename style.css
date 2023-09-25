@@ -4,7 +4,7 @@ body {
 }  
 #marquue{
     text-shadow: 0,0,0,black,0.5;
-    color: tomato ;
+    color: rgb(157, 71, 255) ;
 }
 #search-container {
    
